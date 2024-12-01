@@ -1,0 +1,45 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\user\Desktop\Digital Systems I Lab\Lab#4\Wrapper Verilog
+vWrapper
+Z1 !s100 m:RM6CmYd>>U:n38<AnVL1
+Z2 In5=PMFc?T6n:dZN2`aZT>1
+Z3 VC32aE7;h@8[Z><bC<?IJ42
+Z4 dC:\Users\user\Desktop\Wrapper Post Synthesis
+Z5 w1673104979
+Z6 8C:/Users/user/Desktop/Wrapper Post Synthesis/Wrapper.vo
+Z7 FC:/Users/user/Desktop/Wrapper Post Synthesis/Wrapper.vo
+L0 31
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|C:/Users/user/Desktop/Wrapper Post Synthesis/Wrapper.vo|
+Z10 o-work work -O0
+Z11 n@wrapper
+!i10b 1
+!s85 0
+Z12 !s108 1673106181.153000
+Z13 !s107 C:/Users/user/Desktop/Wrapper Post Synthesis/Wrapper.vo|
+!s101 -O0
+vWrapper_PostSynthesis_TB
+!i10b 1
+Z14 !s100 JI]U^lg;W1@k52MKNnII=3
+Z15 IMQPh7T[oZ3LT@fUNobhDi2
+Z16 VnOYN6M:NYIV0jnLbCPNKB2
+R4
+w1673106176
+Z17 8C:/Users/user/Desktop/Wrapper Post Synthesis/Wrapper_PostSynthesis_TB.v
+Z18 FC:/Users/user/Desktop/Wrapper Post Synthesis/Wrapper_PostSynthesis_TB.v
+L0 2
+R8
+r1
+!s85 0
+31
+!s108 1673106181.199000
+!s107 C:/Users/user/Desktop/Wrapper Post Synthesis/Wrapper_PostSynthesis_TB.v|
+Z19 !s90 -reportprogress|300|-work|work|C:/Users/user/Desktop/Wrapper Post Synthesis/Wrapper_PostSynthesis_TB.v|
+!s101 -O0
+R10
+Z20 n@wrapper_@post@synthesis_@t@b

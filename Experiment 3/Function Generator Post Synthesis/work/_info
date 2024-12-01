@@ -1,0 +1,44 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\user\Desktop\funct
+vfunction_generator
+!i10b 1
+Z1 !s100 MHjNE9nb7g<?cM5MVko`L3
+Z2 Ik3X627n]A>C_TGF^8lC<[3
+Z3 VIKzTNO5zJ:j[;oB3QQcdf1
+Z4 dC:\Users\user\Desktop\Fun Gen
+Z5 w1673338645
+Z6 8C:/Users/user/Desktop/Fun Gen/function_generator.vo
+Z7 FC:/Users/user/Desktop/Fun Gen/function_generator.vo
+L0 31
+Z8 OV;L;10.1d;51
+r1
+!s85 0
+31
+!s108 1673340553.404000
+!s107 C:/Users/user/Desktop/Fun Gen/function_generator.vo|
+Z9 !s90 -reportprogress|300|-work|work|C:/Users/user/Desktop/Fun Gen/function_generator.vo|
+!s101 -O0
+Z10 o-work work -O0
+vTB
+Z11 Ia8P<famZHkLV4ooUCZeQ^2
+Z12 Vc<=32996OT2f`M7E_UhYX1
+R4
+Z13 w1673340548
+Z14 8C:/Users/user/Desktop/Fun Gen/TB.v
+Z15 FC:/Users/user/Desktop/Fun Gen/TB.v
+L0 3
+R8
+r1
+31
+Z16 !s90 -reportprogress|300|-work|work|C:/Users/user/Desktop/Fun Gen/TB.v|
+R10
+n@t@b
+!i10b 1
+Z17 !s100 DGD9RK6Z0leUMjTMh1Z0I1
+!s85 0
+Z18 !s108 1673340553.372000
+Z19 !s107 C:/Users/user/Desktop/Fun Gen/TB.v|
+!s101 -O0

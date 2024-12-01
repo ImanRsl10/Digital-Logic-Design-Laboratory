@@ -1,0 +1,29 @@
+{C:/Users/user/Desktop/Digital Systems I Lab/Lab#3/Waveform_Generator/Wave_TB.v} {1 {vlog -work work -stats=none {C:/Users/user/Desktop/Digital Systems I Lab/Lab#3/Waveform_Generator/Wave_TB.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Wave_TB
+
+Top level modules:
+	Wave_TB
+
+} {} {}} {C:/Users/user/Desktop/Digital Systems I Lab/Lab#3/Waveform_Generator/Amplitude_Selector.v} {1 {vlog -work work -stats=none {C:/Users/user/Desktop/Digital Systems I Lab/Lab#3/Waveform_Generator/Amplitude_Selector.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Amplitude_Selector
+
+Top level modules:
+	Amplitude_Selector
+
+} {} {}} {C:/Users/user/Desktop/Digital Systems I Lab/Lab#3/Waveform_Generator/Waveform_Generator.v} {1 {vlog -work work -stats=none {C:/Users/user/Desktop/Digital Systems I Lab/Lab#3/Waveform_Generator/Waveform_Generator.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Waveform_Generator
+
+Top level modules:
+	Waveform_Generator
+
+} {} {}} {C:/Users/user/Desktop/Digital Systems I Lab/Lab#3/Waveform_Generator/Frequency_Selector.v} {1 {vlog -work work -stats=none {C:/Users/user/Desktop/Digital Systems I Lab/Lab#3/Waveform_Generator/Frequency_Selector.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Frequency_Selector
+
+Top level modules:
+	Frequency_Selector
+
+} {} {}}

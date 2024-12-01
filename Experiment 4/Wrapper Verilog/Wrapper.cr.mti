@@ -1,0 +1,99 @@
+{C:/Users/user/Desktop/Digital Systems I Lab/Lab#4/Wrapper Verilog/Wrapper_TB.v} {1 {vlog -work work -stats=none {C:/Users/user/Desktop/Digital Systems I Lab/Lab#4/Wrapper Verilog/Wrapper_TB.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Wrapper_TB
+
+Top level modules:
+	Wrapper_TB
+
+} {} {}} {C:/Users/user/Desktop/Digital Systems I Lab/Lab#4/Wrapper Verilog/ROM.v} {1 {vlog -work work -stats=none {C:/Users/user/Desktop/Digital Systems I Lab/Lab#4/Wrapper Verilog/ROM.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ROM
+
+Top level modules:
+	ROM
+
+} {} {}} {C:/Users/user/Desktop/Digital Systems I Lab/Lab#4/Wrapper Verilog/Datapath.v} {1 {vlog -work work -stats=none {C:/Users/user/Desktop/Digital Systems I Lab/Lab#4/Wrapper Verilog/Datapath.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module datapath
+
+Top level modules:
+	datapath
+
+} {} {}} {C:/Users/user/Desktop/Digital Systems I Lab/Lab#4/Wrapper Verilog/adder.v} {1 {vlog -work work -stats=none {C:/Users/user/Desktop/Digital Systems I Lab/Lab#4/Wrapper Verilog/adder.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module adder
+
+Top level modules:
+	adder
+
+} {} {}} {C:/Users/user/Desktop/Digital Systems I Lab/Lab#4/Wrapper Verilog/register.v} {1 {vlog -work work -stats=none {C:/Users/user/Desktop/Digital Systems I Lab/Lab#4/Wrapper Verilog/register.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module register
+
+Top level modules:
+	register
+
+} {} {}} {C:/Users/user/Desktop/Digital Systems I Lab/Lab#4/Wrapper Verilog/register18.v} {1 {vlog -work work -stats=none {C:/Users/user/Desktop/Digital Systems I Lab/Lab#4/Wrapper Verilog/register18.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module register18
+
+Top level modules:
+	register18
+
+} {} {}} {C:/Users/user/Desktop/Digital Systems I Lab/Lab#4/Wrapper Verilog/exponential.v} {1 {vlog -work work -stats=none {C:/Users/user/Desktop/Digital Systems I Lab/Lab#4/Wrapper Verilog/exponential.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module exponential
+
+Top level modules:
+	exponential
+
+} {} {}} {C:/Users/user/Desktop/Digital Systems I Lab/Lab#4/Wrapper Verilog/multiplier.v} {1 {vlog -work work -stats=none {C:/Users/user/Desktop/Digital Systems I Lab/Lab#4/Wrapper Verilog/multiplier.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module multiplier
+
+Top level modules:
+	multiplier
+
+} {} {}} {C:/Users/user/Desktop/Digital Systems I Lab/Lab#4/Wrapper Verilog/Wrapper_Counter.v} {1 {vlog -work work -stats=none {C:/Users/user/Desktop/Digital Systems I Lab/Lab#4/Wrapper Verilog/Wrapper_Counter.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Wrapper_Counter
+
+Top level modules:
+	Wrapper_Counter
+
+} {} {}} {C:/Users/user/Desktop/Digital Systems I Lab/Lab#4/Wrapper Verilog/Counter.v} {1 {vlog -work work -stats=none {C:/Users/user/Desktop/Digital Systems I Lab/Lab#4/Wrapper Verilog/Counter.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module counter
+
+Top level modules:
+	counter
+
+} {} {}} {C:/Users/user/Desktop/Digital Systems I Lab/Lab#4/Wrapper Verilog/mux2to1.v} {1 {vlog -work work -stats=none {C:/Users/user/Desktop/Digital Systems I Lab/Lab#4/Wrapper Verilog/mux2to1.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mux2to1
+
+Top level modules:
+	mux2to1
+
+} {} {}} {C:/Users/user/Desktop/Digital Systems I Lab/Lab#4/Wrapper Verilog/LUTExp.v} {1 {vlog -work work -stats=none {C:/Users/user/Desktop/Digital Systems I Lab/Lab#4/Wrapper Verilog/LUTExp.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module LUT
+
+Top level modules:
+	LUT
+
+} {} {}} {C:/Users/user/Desktop/Digital Systems I Lab/Lab#4/Wrapper Verilog/Wrapper_Controller.v} {1 {vlog -work work -stats=none {C:/Users/user/Desktop/Digital Systems I Lab/Lab#4/Wrapper Verilog/Wrapper_Controller.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Wrapper_Controller
+
+Top level modules:
+	Wrapper_Controller
+
+} {} {}} {C:/Users/user/Desktop/Digital Systems I Lab/Lab#4/Wrapper Verilog/Controller.v} {1 {vlog -work work -stats=none {C:/Users/user/Desktop/Digital Systems I Lab/Lab#4/Wrapper Verilog/Controller.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module controller
+
+Top level modules:
+	controller
+
+} {} {}}

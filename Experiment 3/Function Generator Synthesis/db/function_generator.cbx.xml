@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="function_generator">
+		<CBX_INST_ENTRY INSTANCE_NAME="|function_generator|ROM:inst3|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_5o71.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|function_generator|Waveform_Generator:inst8|lpm_divide:Div0" CBX_FILE_NAME="lpm_divide_5dm.tdf"/>
+	</PROJECT>
+</LOG_ROOT>

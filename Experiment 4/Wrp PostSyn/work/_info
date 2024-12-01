@@ -1,0 +1,45 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\user\Desktop\Digital Systems I Lab\Lab#4\Wrapper Verilog
+vWrapper
+!i10b 1
+Z1 !s100 lFDY2?[Mg4aJO]6`BoM473
+Z2 ITO0KiS0QcYn64LJ`;C6Li1
+Z3 Vlm=zgTdTa2h_UmjJJ9OKc1
+Z4 dC:\Users\user\Desktop\Wrp PostSyn
+Z5 w1673278636
+Z6 8C:/Users/user/Desktop/Wrp PostSyn/exponential.vo
+Z7 FC:/Users/user/Desktop/Wrp PostSyn/exponential.vo
+L0 30
+Z8 OV;L;10.1d;51
+r1
+!s85 0
+31
+!s108 1673356751.879000
+!s107 C:/Users/user/Desktop/Wrp PostSyn/exponential.vo|
+Z9 !s90 -reportprogress|300|-work|work|C:/Users/user/Desktop/Wrp PostSyn/exponential.vo|
+!s101 -O0
+Z10 o-work work -O0
+Z11 n@wrapper
+vWrapper_TB
+Z12 IcIFJz@iIfjKA?dg>UIkfW0
+Z13 VV0J>;=JQfUd]W=X_4`UCh2
+R4
+Z14 w1673356748
+Z15 8C:/Users/user/Desktop/Wrp PostSyn/Wrp_TB.v
+Z16 FC:/Users/user/Desktop/Wrp PostSyn/Wrp_TB.v
+L0 2
+R8
+r1
+31
+Z17 !s90 -reportprogress|300|-work|work|C:/Users/user/Desktop/Wrp PostSyn/Wrp_TB.v|
+R10
+Z18 n@wrapper_@t@b
+!i10b 1
+Z19 !s100 F1QZjfR1JX09oYL=J7^T60
+!s85 0
+Z20 !s108 1673356751.848000
+Z21 !s107 C:/Users/user/Desktop/Wrp PostSyn/Wrp_TB.v|
+!s101 -O0

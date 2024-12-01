@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="exponential">
+		<CBX_INST_ENTRY INSTANCE_NAME="|Wrapper|ROM:inst2|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_1081.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Wrapper|exponential:inst|datapath:dP|multiplier:mult|lpm_mult:Mult0" CBX_FILE_NAME="mult_l8t.tdf"/>
+	</PROJECT>
+</LOG_ROOT>

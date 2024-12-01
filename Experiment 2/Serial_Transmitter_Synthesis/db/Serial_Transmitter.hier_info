@@ -1,0 +1,66 @@
+|Serial_Transmitter
+ClkPB => ClkPB.IN1
+clk => clk.IN2
+rst => rst.IN2
+SerIn => SerIn.IN1
+SSD[0] <= Seven_Segment:C.port1
+SSD[1] <= Seven_Segment:C.port1
+SSD[2] <= Seven_Segment:C.port1
+SSD[3] <= Seven_Segment:C.port1
+SSD[4] <= Seven_Segment:C.port1
+SSD[5] <= Seven_Segment:C.port1
+SSD[6] <= Seven_Segment:C.port1
+SerOut <= OTHFSM:A.port5
+SerOutValid <= OTHFSM:A.port4
+
+
+|Serial_Transmitter|OTHFSM:A
+Clk_EN => always3.IN0
+Clk_EN => ns.OUTPUTSELECT
+Clk_EN => ns.OUTPUTSELECT
+Clk_EN => ns.OUTPUTSELECT
+Clk_EN => Selector2.IN1
+Clk_EN => ns.OUTPUTSELECT
+Clk_EN => Selector3.IN1
+SerIn => SerOut.DATAIN
+SerIn => ns.DATAA
+SerIn => ns.DATAA
+SerIn => ns.DATAA
+SerIn => ns.DATAA
+clk => count[0]~reg0.CLK
+clk => count[1]~reg0.CLK
+clk => count[2]~reg0.CLK
+clk => count[3]~reg0.CLK
+clk => ps~1.DATAIN
+rst => ps~3.DATAIN
+SerOutValid <= SerOutValid.DB_MAX_OUTPUT_PORT_TYPE
+SerOut <= SerOut.DB_MAX_OUTPUT_PORT_TYPE
+count[0] <= count[0]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+count[1] <= count[1]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+count[2] <= count[2]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+count[3] <= count[3]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Serial_Transmitter|One_Pulser:B
+clk => ps~1.DATAIN
+ClkPB => ns.B.DATAB
+ClkPB => Selector1.IN2
+ClkPB => Selector0.IN1
+rst => ps~3.DATAIN
+Clk_EN <= Clk_EN.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Serial_Transmitter|Seven_Segment:C
+count[0] => Decoder0.IN3
+count[1] => Decoder0.IN2
+count[2] => Decoder0.IN1
+count[3] => Decoder0.IN0
+SSD[0] <= WideOr6.DB_MAX_OUTPUT_PORT_TYPE
+SSD[1] <= WideOr5.DB_MAX_OUTPUT_PORT_TYPE
+SSD[2] <= WideOr4.DB_MAX_OUTPUT_PORT_TYPE
+SSD[3] <= WideOr3.DB_MAX_OUTPUT_PORT_TYPE
+SSD[4] <= WideOr2.DB_MAX_OUTPUT_PORT_TYPE
+SSD[5] <= WideOr1.DB_MAX_OUTPUT_PORT_TYPE
+SSD[6] <= WideOr0.DB_MAX_OUTPUT_PORT_TYPE
+
+

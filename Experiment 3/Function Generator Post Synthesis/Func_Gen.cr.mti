@@ -1,0 +1,15 @@
+{C:/Users/user/Desktop/Fun Gen/TB.v} {1 {vlog -work work {C:/Users/user/Desktop/Fun Gen/TB.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module TB
+
+Top level modules:
+	TB
+
+} {} {}} {C:/Users/user/Desktop/Fun Gen/function_generator.vo} {1 {vlog -work work {C:/Users/user/Desktop/Fun Gen/function_generator.vo}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module function_generator
+
+Top level modules:
+	function_generator
+
+} {} {}}

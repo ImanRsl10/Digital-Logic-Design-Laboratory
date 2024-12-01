@@ -1,0 +1,19 @@
+module One_Pulser (input clk, ClkPB, rst, output reg Clk_EN);
+	reg [1:0] ns,ps;
+	parameter A = 2'b00, B = 2'b01, C = 2'b10;
+	always@(ps, ClkPB) begin
+		ns = A; 
+		Clk_EN = 0;
+		case(ps)
+			A: ns = ClkPB ? B : A;
+			B: begin ns = C; Clk_EN = 1; end
+			C: ns = ClkPB ? C : A;
+		endcase
+	end
+	
+	always@(posedge clk, posedge rst) begin
+		if(rst) ns <= A;
+		else 
+			ps <= ns;
+	end
+endmodule

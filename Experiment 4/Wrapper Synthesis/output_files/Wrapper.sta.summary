@@ -1,0 +1,69 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow Model Setup 'clk'
+Slack : -8.117
+TNS   : -373.569
+
+Type  : Slow Model Setup 'exponential:inst3|datapath:dP|counter:count|out[3]'
+Slack : -2.173
+TNS   : -21.901
+
+Type  : Slow Model Hold 'clk'
+Slack : -2.668
+TNS   : -6.088
+
+Type  : Slow Model Hold 'exponential:inst3|datapath:dP|counter:count|out[3]'
+Slack : 1.200
+TNS   : 0.000
+
+Type  : Slow Model Recovery 'clk'
+Slack : -0.425
+TNS   : -3.400
+
+Type  : Slow Model Removal 'clk'
+Slack : 1.177
+TNS   : 0.000
+
+Type  : Slow Model Minimum Pulse Width 'clk'
+Slack : -1.814
+TNS   : -188.683
+
+Type  : Slow Model Minimum Pulse Width 'exponential:inst3|datapath:dP|counter:count|out[3]'
+Slack : 0.500
+TNS   : 0.000
+
+Type  : Fast Model Setup 'clk'
+Slack : -2.376
+TNS   : -74.552
+
+Type  : Fast Model Setup 'exponential:inst3|datapath:dP|counter:count|out[3]'
+Slack : -0.378
+TNS   : -3.462
+
+Type  : Fast Model Hold 'clk'
+Slack : -1.704
+TNS   : -4.505
+
+Type  : Fast Model Hold 'exponential:inst3|datapath:dP|counter:count|out[3]'
+Slack : 0.691
+TNS   : 0.000
+
+Type  : Fast Model Recovery 'clk'
+Slack : 0.296
+TNS   : 0.000
+
+Type  : Fast Model Removal 'clk'
+Slack : 0.584
+TNS   : 0.000
+
+Type  : Fast Model Minimum Pulse Width 'clk'
+Slack : -1.519
+TNS   : -154.756
+
+Type  : Fast Model Minimum Pulse Width 'exponential:inst3|datapath:dP|counter:count|out[3]'
+Slack : 0.500
+TNS   : 0.000
+
+------------------------------------------------------------

@@ -1,0 +1,362 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1
+vAccelarator_TB
+!s110 1673101199
+!i10b 1
+!s100 8WWRQa;B[5X=T>@VH`n<H3
+Z0 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I2BV461AfQU;[RD1;G9]UR1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/user/Desktop/Digital Systems I Lab/Lab#4/Wrapper Verilog
+w1673101196
+Z3 8C:/Users/user/Desktop/Digital Systems I Lab/Lab#4/Wrapper Verilog/Wrapper_TB.v
+Z4 FC:/Users/user/Desktop/Digital Systems I Lab/Lab#4/Wrapper Verilog/Wrapper_TB.v
+!i122 195
+L0 2 23
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1673101199.000000
+Z6 !s107 C:/Users/user/Desktop/Digital Systems I Lab/Lab#4/Wrapper Verilog/Wrapper_TB.v|
+Z7 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/Digital Systems I Lab/Lab#4/Wrapper Verilog/Wrapper_TB.v|
+!i113 1
+Z8 o-work work
+Z9 tCvgOpt 0
+n@accelarator_@t@b
+vadder
+!s110 1673256364
+!i10b 1
+!s100 eCc=H`lER_4_hdzNQgFR22
+R0
+IWT3<6eA7O4W[UPUCjYjDf3
+R1
+R2
+w1608023352
+8C:/Users/user/Desktop/Digital Systems I Lab/Lab#4/Wrapper Verilog/adder.v
+FC:/Users/user/Desktop/Digital Systems I Lab/Lab#4/Wrapper Verilog/adder.v
+!i122 323
+L0 1 5
+R5
+r1
+!s85 0
+31
+Z10 !s108 1673256364.000000
+!s107 C:/Users/user/Desktop/Digital Systems I Lab/Lab#4/Wrapper Verilog/adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/Digital Systems I Lab/Lab#4/Wrapper Verilog/adder.v|
+!i113 1
+R8
+R9
+vcontroller
+Z11 !s110 1673256365
+!i10b 1
+!s100 >YBmif9G@@2A75N5d7f=<2
+R0
+I75f]cJ[9@coa7LnIeDWP@0
+R1
+R2
+w1608188224
+8C:/Users/user/Desktop/Digital Systems I Lab/Lab#4/Wrapper Verilog/Controller.v
+FC:/Users/user/Desktop/Digital Systems I Lab/Lab#4/Wrapper Verilog/Controller.v
+!i122 324
+L0 1 64
+R5
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/user/Desktop/Digital Systems I Lab/Lab#4/Wrapper Verilog/Controller.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/Digital Systems I Lab/Lab#4/Wrapper Verilog/Controller.v|
+!i113 1
+R8
+R9
+vcounter
+R11
+!i10b 1
+!s100 UQ1j^HaPSjWgWN`:a6=h<1
+R0
+Im2iUMPHI06@WO`QQ]G0gE1
+R1
+R2
+w1608024928
+8C:/Users/user/Desktop/Digital Systems I Lab/Lab#4/Wrapper Verilog/Counter.v
+FC:/Users/user/Desktop/Digital Systems I Lab/Lab#4/Wrapper Verilog/Counter.v
+!i122 325
+Z12 L0 2 14
+R5
+r1
+!s85 0
+31
+Z13 !s108 1673256365.000000
+!s107 C:/Users/user/Desktop/Digital Systems I Lab/Lab#4/Wrapper Verilog/Counter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/Digital Systems I Lab/Lab#4/Wrapper Verilog/Counter.v|
+!i113 1
+R8
+R9
+vdatapath
+R11
+!i10b 1
+!s100 X3Sl?G^Fbb0?X:oc4_X;92
+R0
+IZH>TKbh^ZI8R=g68Z4W?F3
+R1
+R2
+w1608025244
+8C:/Users/user/Desktop/Digital Systems I Lab/Lab#4/Wrapper Verilog/Datapath.v
+FC:/Users/user/Desktop/Digital Systems I Lab/Lab#4/Wrapper Verilog/Datapath.v
+!i122 326
+L0 1 24
+R5
+r1
+!s85 0
+31
+R13
+!s107 C:/Users/user/Desktop/Digital Systems I Lab/Lab#4/Wrapper Verilog/Datapath.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/Digital Systems I Lab/Lab#4/Wrapper Verilog/Datapath.v|
+!i113 1
+R8
+R9
+vexponential
+R11
+!i10b 1
+!s100 md5;Vb<:7I>l6FG0?]Gm43
+R0
+I[5?m4Xa6Kgn3ClG<BGczn3
+R1
+R2
+w1608023344
+8C:/Users/user/Desktop/Digital Systems I Lab/Lab#4/Wrapper Verilog/exponential.v
+FC:/Users/user/Desktop/Digital Systems I Lab/Lab#4/Wrapper Verilog/exponential.v
+!i122 327
+L0 1 12
+R5
+r1
+!s85 0
+31
+R13
+!s107 C:/Users/user/Desktop/Digital Systems I Lab/Lab#4/Wrapper Verilog/exponential.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/Digital Systems I Lab/Lab#4/Wrapper Verilog/exponential.v|
+!i113 1
+R8
+R9
+vLUT
+R11
+!i10b 1
+!s100 JgVO?Lj==2bRMg4oCe6nH3
+R0
+IfJ:cHY`aBPX[FEiLY3eT[0
+R1
+R2
+w1608023408
+8C:/Users/user/Desktop/Digital Systems I Lab/Lab#4/Wrapper Verilog/LUTExp.v
+FC:/Users/user/Desktop/Digital Systems I Lab/Lab#4/Wrapper Verilog/LUTExp.v
+!i122 328
+L0 1 16
+R5
+r1
+!s85 0
+31
+R13
+!s107 C:/Users/user/Desktop/Digital Systems I Lab/Lab#4/Wrapper Verilog/LUTExp.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/Digital Systems I Lab/Lab#4/Wrapper Verilog/LUTExp.v|
+!i113 1
+R8
+R9
+n@l@u@t
+vmultiplier
+Z14 !s110 1673256366
+!i10b 1
+!s100 OLiLEPYa]L[;Zh@Me8Z9f1
+R0
+IAg^1GC8`3IT`[O3QAD1X[2
+R1
+R2
+w1608024648
+8C:/Users/user/Desktop/Digital Systems I Lab/Lab#4/Wrapper Verilog/multiplier.v
+FC:/Users/user/Desktop/Digital Systems I Lab/Lab#4/Wrapper Verilog/multiplier.v
+!i122 329
+Z15 L0 2 5
+R5
+r1
+!s85 0
+31
+R13
+!s107 C:/Users/user/Desktop/Digital Systems I Lab/Lab#4/Wrapper Verilog/multiplier.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/Digital Systems I Lab/Lab#4/Wrapper Verilog/multiplier.v|
+!i113 1
+R8
+R9
+vmux2to1
+R14
+!i10b 1
+!s100 FWhMI@:R3Tdk@:__`5[C<2
+R0
+Im91:L[Jni1ME7eR;DzLi80
+R1
+R2
+w1608024420
+8C:/Users/user/Desktop/Digital Systems I Lab/Lab#4/Wrapper Verilog/mux2to1.v
+FC:/Users/user/Desktop/Digital Systems I Lab/Lab#4/Wrapper Verilog/mux2to1.v
+!i122 330
+R15
+R5
+r1
+!s85 0
+31
+Z16 !s108 1673256366.000000
+!s107 C:/Users/user/Desktop/Digital Systems I Lab/Lab#4/Wrapper Verilog/mux2to1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/Digital Systems I Lab/Lab#4/Wrapper Verilog/mux2to1.v|
+!i113 1
+R8
+R9
+vregister
+R14
+!i10b 1
+!s100 7cl4m`oQk9Q7i<YFIboml2
+R0
+I>Q9e44dd4I7Xb[;Z<VYF_0
+R1
+R2
+w1608024874
+8C:/Users/user/Desktop/Digital Systems I Lab/Lab#4/Wrapper Verilog/register.v
+FC:/Users/user/Desktop/Digital Systems I Lab/Lab#4/Wrapper Verilog/register.v
+!i122 331
+R12
+R5
+r1
+!s85 0
+31
+R16
+!s107 C:/Users/user/Desktop/Digital Systems I Lab/Lab#4/Wrapper Verilog/register.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/Digital Systems I Lab/Lab#4/Wrapper Verilog/register.v|
+!i113 1
+R8
+R9
+vregister18
+R14
+!i10b 1
+!s100 oAz243<D<a_lCnTHNlRjS2
+R0
+IQ@lR3KQEI>I4DO8FF@HV`3
+R1
+R2
+w1608024838
+8C:/Users/user/Desktop/Digital Systems I Lab/Lab#4/Wrapper Verilog/register18.v
+FC:/Users/user/Desktop/Digital Systems I Lab/Lab#4/Wrapper Verilog/register18.v
+!i122 332
+R12
+R5
+r1
+!s85 0
+31
+R16
+!s107 C:/Users/user/Desktop/Digital Systems I Lab/Lab#4/Wrapper Verilog/register18.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/Digital Systems I Lab/Lab#4/Wrapper Verilog/register18.v|
+!i113 1
+R8
+R9
+vROM
+Z17 !s110 1673256367
+!i10b 1
+!s100 `dOXS@GAQCK;Xn7Sjz?Q[2
+R0
+IW[fZoBYMo4D2P4^35BMNi3
+R1
+R2
+w1673101071
+8C:/Users/user/Desktop/Digital Systems I Lab/Lab#4/Wrapper Verilog/ROM.v
+FC:/Users/user/Desktop/Digital Systems I Lab/Lab#4/Wrapper Verilog/ROM.v
+!i122 336
+L0 1 11
+R5
+r1
+!s85 0
+31
+Z18 !s108 1673256367.000000
+!s107 C:/Users/user/Desktop/Digital Systems I Lab/Lab#4/Wrapper Verilog/ROM.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/Digital Systems I Lab/Lab#4/Wrapper Verilog/ROM.v|
+!i113 1
+R8
+R9
+n@r@o@m
+vWrapper_Controller
+R14
+!i10b 1
+!s100 <nNUNX=Lb>B_B3X8UWd<V2
+R0
+I`bdLInLHDgOVRa>:8HY[91
+R1
+R2
+w1673100417
+8C:/Users/user/Desktop/Digital Systems I Lab/Lab#4/Wrapper Verilog/Wrapper_Controller.v
+FC:/Users/user/Desktop/Digital Systems I Lab/Lab#4/Wrapper Verilog/Wrapper_Controller.v
+!i122 333
+L0 1 39
+R5
+r1
+!s85 0
+31
+R16
+!s107 C:/Users/user/Desktop/Digital Systems I Lab/Lab#4/Wrapper Verilog/Wrapper_Controller.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/Digital Systems I Lab/Lab#4/Wrapper Verilog/Wrapper_Controller.v|
+!i113 1
+R8
+R9
+n@wrapper_@controller
+vWrapper_Counter
+R14
+!i10b 1
+!s100 3S8Zk_k<cE?<X74F4cQ6U0
+R0
+I<S[Eak;JogUok9z1iOS<_0
+R1
+R2
+w1673102289
+8C:/Users/user/Desktop/Digital Systems I Lab/Lab#4/Wrapper Verilog/Wrapper_Counter.v
+FC:/Users/user/Desktop/Digital Systems I Lab/Lab#4/Wrapper Verilog/Wrapper_Counter.v
+!i122 334
+L0 1 10
+R5
+r1
+!s85 0
+31
+R16
+!s107 C:/Users/user/Desktop/Digital Systems I Lab/Lab#4/Wrapper Verilog/Wrapper_Counter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/Digital Systems I Lab/Lab#4/Wrapper Verilog/Wrapper_Counter.v|
+!i113 1
+R8
+R9
+n@wrapper_@counter
+vWrapper_TB
+R17
+!i10b 1
+!s100 c^IaEm7^Uk>H6XdVYcdhW2
+R0
+Ii^aJSd5fjTgGGVgB@I>aE0
+R1
+R2
+w1673102228
+R3
+R4
+!i122 335
+L0 2 34
+R5
+r1
+!s85 0
+31
+R18
+R6
+R7
+!i113 1
+R8
+R9
+n@wrapper_@t@b

@@ -1,0 +1,36 @@
+{C:/Users/user/Desktop/Digital Systems I Lab/Lab#2/Serial_Transmitter/OTHFSM.v} {1 {vlog -work work -stats=none {C:/Users/user/Desktop/Digital Systems I Lab/Lab#2/Serial_Transmitter/OTHFSM.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module OTHFSM
+
+Top level modules:
+	OTHFSM
+
+} {} {}} {C:/Users/user/Desktop/Digital Systems I Lab/Lab#2/Serial_Transmitter/TB.v} {1 {vlog -work work -stats=none {C:/Users/user/Desktop/Digital Systems I Lab/Lab#2/Serial_Transmitter/TB.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module TB
+
+Top level modules:
+	TB
+
+} {} {}} {C:/Users/user/Desktop/Digital Systems I Lab/Lab#2/Serial_Transmitter/SSD.v} {1 {vlog -work work -stats=none {C:/Users/user/Desktop/Digital Systems I Lab/Lab#2/Serial_Transmitter/SSD.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Seven_Segment
+
+Top level modules:
+	Seven_Segment
+
+} {} {}} {C:/Users/user/Desktop/Digital Systems I Lab/Lab#2/Serial_Transmitter/One_Pulser.v} {1 {vlog -work work -stats=none {C:/Users/user/Desktop/Digital Systems I Lab/Lab#2/Serial_Transmitter/One_Pulser.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module One_Pulser
+
+Top level modules:
+	One_Pulser
+
+} {} {}} {C:/Users/user/Desktop/Digital Systems I Lab/Lab#2/Serial_Transmitter/Serial_Transmitter.v} {1 {vlog -work work -stats=none {C:/Users/user/Desktop/Digital Systems I Lab/Lab#2/Serial_Transmitter/Serial_Transmitter.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Serial_Transmitter
+
+Top level modules:
+	Serial_Transmitter
+
+} {} {}}

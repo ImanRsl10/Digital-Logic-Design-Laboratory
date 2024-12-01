@@ -1,0 +1,29 @@
+
+State Machine - |Wrapper|exponential:inst3|controller:control|ps
+Name ps.Add ps.Mult2 ps.Mult1 ps.Begin ps.Initialization ps.Idle 
+ps.Idle 0 0 0 0 0 0 
+ps.Initialization 0 0 0 0 1 1 
+ps.Begin 0 0 0 1 0 1 
+ps.Mult1 0 0 1 0 0 1 
+ps.Mult2 0 1 0 0 0 1 
+ps.Add 1 0 0 0 0 1 
+
+State Machine - |Wrapper|Wrapper_Controller:inst|ps
+Name ps.G ps.F ps.E ps.D ps.C ps.B ps.A 
+ps.A 0 0 0 0 0 0 0 
+ps.B 0 0 0 0 0 1 1 
+ps.C 0 0 0 0 1 0 1 
+ps.D 0 0 0 1 0 0 1 
+ps.E 0 0 1 0 0 0 1 
+ps.F 0 1 0 0 0 0 1 
+ps.G 1 0 0 0 0 0 1 
+
+State Machine - |Wrapper|Wrapper_Controller:inst|ns
+Name ns.G ns.F ns.E ns.D ns.C ns.B ns.A 
+ns.A 0 0 0 0 0 0 0 
+ns.B 0 0 0 0 0 1 1 
+ns.C 0 0 0 0 1 0 1 
+ns.D 0 0 0 1 0 0 1 
+ns.E 0 0 1 0 0 0 1 
+ns.F 0 1 0 0 0 0 1 
+ns.G 1 0 0 0 0 0 1 
